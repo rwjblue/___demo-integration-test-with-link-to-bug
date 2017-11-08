@@ -1,0 +1,6 @@
+{
+  "name": "demo-integration-test-with-link-to-bug",
+  "dependencies": {
+    "ember": "canary"
+  }
+}
